@@ -1,4 +1,4 @@
-import sernam from "https://cdn.jsdelivr.net/npm/sernam@1.0.3/index.min.js"
+import sernam from "https://cdn.jsdelivr.net/npm/sernam@1.0.4/index.min.js"
 const options = {
   symbols: true,
   numbers: true,
